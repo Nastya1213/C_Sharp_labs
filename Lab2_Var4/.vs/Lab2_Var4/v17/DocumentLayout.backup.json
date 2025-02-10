@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C#\\Lab2_Var4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|g:\\c#\\lab2_var4\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|g:\\c#\\lab2_var4\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|g:\\c#\\lab2_var4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F6DC0B-2885-4621-998C-757C9DF7E5C1}|\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj|\\\\iscsi\\profstud\\ponomaryovaaa\\downloads\\contextlibrary\\entities\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F6DC0B-2885-4621-998C-757C9DF7E5C1}|\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj|\\\\iscsi\\profstud\\ponomaryovaaa\\downloads\\contextlibrary\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F6DC0B-2885-4621-998C-757C9DF7E5C1}|\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj|\\\\iscsi\\profstud\\ponomaryovaaa\\downloads\\contextlibrary\\entities\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F6DC0B-2885-4621-998C-757C9DF7E5C1}|\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj|\\\\iscsi\\profstud\\ponomaryovaaa\\downloads\\contextlibrary\\entities\\mechanicrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|g:\\c#\\lab2_var4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F6DC0B-2885-4621-998C-757C9DF7E5C1}|\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj|\\\\iscsi\\profstud\\ponomaryovaaa\\downloads\\contextlibrary\\contextlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|g:\\c#\\lab2_var4\\lab2_var4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:lab2_var4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestWindow.xaml.cs",
+              "DocumentMoniker": "G:\\C#\\Lab2_Var4\\RequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RequestWindow.xaml.cs",
+              "ToolTip": "G:\\C#\\Lab2_Var4\\RequestWindow.xaml.cs*",
+              "RelativeToolTip": "RequestWindow.xaml.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:15:18.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestWindow.xaml",
+              "DocumentMoniker": "G:\\C#\\Lab2_Var4\\RequestWindow.xaml",
+              "RelativeDocumentMoniker": "RequestWindow.xaml",
+              "ToolTip": "G:\\C#\\Lab2_Var4\\RequestWindow.xaml*",
+              "RelativeToolTip": "RequestWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T03:14:27.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MechanicRequests.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\MechanicRequests.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\MechanicRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T03:00:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mechanic.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\Mechanic.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\Mechanic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:59:30.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Request.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\Request.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:57:50.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContextLibrary",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj",
+              "ToolTip": "\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T02:57:19.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\ApplicationContext.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:57:01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\C#\\Lab2_Var4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "G:\\C#\\Lab2_Var4\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-10T02:42:29.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\C#\\Lab2_Var4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "G:\\C#\\Lab2_Var4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T02:42:27.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lab2_Var4",
+              "DocumentMoniker": "G:\\C#\\Lab2_Var4\\Lab2_Var4.csproj",
+              "RelativeDocumentMoniker": "Lab2_Var4.csproj",
+              "ToolTip": "G:\\C#\\Lab2_Var4\\Lab2_Var4.csproj",
+              "RelativeToolTip": "Lab2_Var4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T02:51:48.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
