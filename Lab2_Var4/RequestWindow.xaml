@@ -23,7 +23,7 @@
 
         <!-- Поля ввода -->
         <TextBlock Text="№ заявки:" Grid.Row="0" Grid.Column="0" Margin="5"/>
-        <TextBox Text="{Binding Request.Id}" Grid.Row="0" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+        <TextBox Text="{Binding Request.Id, Mode=OneWay}" Grid.Row="0" Grid.Column="1" Margin="5" IsReadOnly="True"/>
 
         <TextBlock Text="Дата добавления:" Grid.Row="1" Grid.Column="0" Margin="5"/>
         <TextBox Text="{Binding Request.DateAdded}" Grid.Row="1" Grid.Column="1" Margin="5" IsReadOnly="True"/>

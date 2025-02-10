@@ -30,6 +30,14 @@ namespace Lab2_Var4
             "В процессе ремонта",
             "Завершена"
         };
+        /// <summary>
+        // Метод генерации нового ID
+        /// </summary>
+        private int GenerateNewId()
+        {
+            using var context = new ApplicationContext();
+            return context.Requests.Any() ? context.Requests.Max(r => r.Id) + 1 : 1;
+        }
 
         public RequestWindow()
         {
@@ -37,11 +45,13 @@ namespace Lab2_Var4
             using ApplicationContext context = new ApplicationContext();
             Request = new ContextLibrary.Entities.Request
             {
-                Id = Guid.NewGuid().ToString(), // Генерация уникального номера заявки
+                Id = GenerateNewId(), // Генерация нового ID
                 DateAdded = DateTime.Now // Текущая дата
             };
             DataContext = this;
         }
+
+
 
         public RequestWindow(Request request)
         {
@@ -81,4 +91,6 @@ namespace Lab2_Var4
             Close();
         }
     }
+
 }
+
