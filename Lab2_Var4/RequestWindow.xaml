@@ -23,29 +23,29 @@
 
         <!-- Поля ввода -->
         <TextBlock Text="№ заявки:" Grid.Row="0" Grid.Column="0" Margin="5"/>
-        <TextBox Text="{Binding Id}" Grid.Row="0" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+        <TextBox Text="{Binding Request.Id}" Grid.Row="0" Grid.Column="1" Margin="5" IsReadOnly="True"/>
 
         <TextBlock Text="Дата добавления:" Grid.Row="1" Grid.Column="0" Margin="5"/>
-        <TextBox Text="{Binding DateAdded}" Grid.Row="1" Grid.Column="1" Margin="5" IsReadOnly="True"/>
+        <TextBox Text="{Binding Request.DateAdded}" Grid.Row="1" Grid.Column="1" Margin="5" IsReadOnly="True"/>
 
-        
+
         <TextBlock Text="Тип оборудования:" Grid.Row="2" Grid.Column="0" Margin="5"/>
-        <TextBox Text="{Binding EquipmentType}" Grid.Row="2" Grid.Column="1" Margin="5"/>
+        <TextBox Text="{Binding Request.EquipmentType}" Grid.Row="2" Grid.Column="1" Margin="5"/>
 
         <TextBlock Text="Модель оборудования:" Grid.Row="3" Grid.Column="0" Margin="5"/>
-        <TextBox Text="{Binding EquipmentModel}" Grid.Row="3" Grid.Column="1" Margin="5"/>
+        <TextBox Text="{Binding Request.EquipmentModel}" Grid.Row="3" Grid.Column="1" Margin="5"/>
 
         <TextBlock Text="Описание проблемы:" Grid.Row="4" Grid.Column="0" Margin="5"/>
-        <TextBox Text="{Binding ProblemDescription}" Grid.Row="4" Grid.Column="1" Margin="5" AcceptsReturn="True" Height="50"/>
+        <TextBox Text="{Binding Request.ProblemDescription}" Grid.Row="4" Grid.Column="1" Margin="5" AcceptsReturn="True" Height="50"/>
 
         <TextBlock Text="ФИО клиента:" Grid.Row="5" Grid.Column="0" Margin="5"/>
-        <TextBox Text="{Binding ClientName}" Grid.Row="5" Grid.Column="1" Margin="5"/>
+        <TextBox Text="{Binding Request.ClientName}" Grid.Row="5" Grid.Column="1" Margin="5"/>
 
         <TextBlock Text="Телефон клиента:" Grid.Row="6" Grid.Column="0" Margin="5"/>
-        <TextBox Text="{Binding PhoneNumber}" Grid.Row="6" Grid.Column="1" Margin="5"/>
+        <TextBox Text="{Binding Request.PhoneNumber}" Grid.Row="6" Grid.Column="1" Margin="5"/>
 
         <TextBlock Text="Статус заявки:" Grid.Row="7" Grid.Column="0" Margin="5"/>
-        <ComboBox Grid.Row="7" Grid.Column="1" Margin="5" ItemsSource="{Binding Statuses}" SelectedItem="{Binding Status}"/>
+        <ComboBox Grid.Row="7" Grid.Column="1" Margin="5" ItemsSource="{Binding Statuses}" SelectedItem="{Binding Request.Status}"/>
 
         <!-- Кнопки -->
         <StackPanel Grid.Row="9" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">
