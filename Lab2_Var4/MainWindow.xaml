@@ -21,7 +21,8 @@
                 <DataGridTextColumn Header="Оборудование" Binding="{Binding EquipmentType}" Width="150"/>
                 <DataGridTextColumn Header="Модель" Binding="{Binding EquipmentModel}" Width="150"/>
                 <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="120"/>
-                <DataGridTextColumn Header="Клиент" Binding="{Binding ClientName}" Width="150"/>
+                <DataGridTextColumn Header="Описание" Binding="{Binding ProblemDescription}" Width="100"/>
+                    <DataGridTextColumn Header="Клиент" Binding="{Binding ClientName}" Width="150"/>
             </DataGrid.Columns>
         </DataGrid>
 

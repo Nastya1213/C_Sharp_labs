@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|c:\\users\\ponomaryovaaa\\source\\c_sharp_labs\\lab2_var4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F6DC0B-2885-4621-998C-757C9DF7E5C1}|\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj|\\\\iscsi\\profstud\\ponomaryovaaa\\downloads\\contextlibrary\\entities\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|c:\\users\\ponomaryovaaa\\source\\c_sharp_labs\\lab2_var4\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|c:\\users\\ponomaryovaaa\\source\\c_sharp_labs\\lab2_var4\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7F6DC0B-2885-4621-998C-757C9DF7E5C1}|\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj|\\\\iscsi\\profstud\\ponomaryovaaa\\downloads\\contextlibrary\\entities\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|c:\\users\\ponomaryovaaa\\source\\c_sharp_labs\\lab2_var4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7F6DC0B-2885-4621-998C-757C9DF7E5C1}|\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj|\\\\iscsi\\profstud\\ponomaryovaaa\\downloads\\contextlibrary\\entities\\mechanicrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|c:\\users\\ponomaryovaaa\\source\\c_sharp_labs\\lab2_var4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7F6DC0B-2885-4621-998C-757C9DF7E5C1}|\\\\iscsi\\profstud\\Ponomaryovaaa\\Downloads\\ContextLibrary\\ContextLibrary.csproj|\\\\iscsi\\profstud\\ponomaryovaaa\\downloads\\contextlibrary\\contextlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,7 +53,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RequestWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\RequestWindow.xaml.cs",
               "RelativeDocumentMoniker": "RequestWindow.xaml.cs",
@@ -61,24 +61,22 @@
               "RelativeToolTip": "RequestWindow.xaml.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAiwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:15:18.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T03:15:18.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RequestWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\RequestWindow.xaml",
               "RelativeDocumentMoniker": "RequestWindow.xaml",
               "ToolTip": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\RequestWindow.xaml",
               "RelativeToolTip": "RequestWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-10T03:14:27.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T03:14:27.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MechanicRequests.cs",
               "DocumentMoniker": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\MechanicRequests.cs",
               "ToolTip": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\MechanicRequests.cs",
@@ -88,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Mechanic.cs",
               "DocumentMoniker": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\Mechanic.cs",
               "ToolTip": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\Mechanic.cs",
@@ -98,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Request.cs",
               "DocumentMoniker": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\Request.cs",
               "ToolTip": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\Request.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T02:57:50.789Z",
               "EditorCaption": ""
@@ -119,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApplicationContext.cs",
               "DocumentMoniker": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\ApplicationContext.cs",
               "ToolTip": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\ApplicationContext.cs",
@@ -129,18 +127,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-10T02:42:29.741Z"
+              "WhenOpened": "2025-02-10T02:42:29.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",

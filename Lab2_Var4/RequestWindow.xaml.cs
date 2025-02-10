@@ -12,6 +12,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using ContextLibrary;
 using ContextLibrary.Entities;
 
 
@@ -33,6 +34,7 @@ namespace Lab2_Var4
         public RequestWindow()
         {
             InitializeComponent();
+            using ApplicationContext context = new ApplicationContext();
             Request = new ContextLibrary.Entities.Request
             {
                 Id = Guid.NewGuid().ToString(), // Генерация уникального номера заявки
