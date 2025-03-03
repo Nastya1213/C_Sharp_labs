@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-G:\шарпы\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\
+C:\Users\Ponomaryovaaa\source\C_Sharp_labs\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\
 WpfApp1
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
-G:\шарпы\WpfApp1\WpfApp1\App.xaml
+C:\Users\Ponomaryovaaa\source\C_Sharp_labs\WpfApp1\WpfApp1\App.xaml
 3306901250
 
 9953290971
-201-1701876
+200161758370
 MainWindow.xaml;OrderWindow.xaml;StorageWindow.xaml;
 
 False

@@ -1,29 +1,12 @@
 {
   "version": 3,
   "targets": {
-    "net9.0-windows7.0": {
-      "ContextLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "compile": {
-          "bin/placeholder/ContextLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ContextLibrary.dll": {}
-        }
-      }
-    }
+    "net9.0-windows7.0": {}
   },
-  "libraries": {
-    "ContextLibrary/1.0.0": {
-      "type": "project",
-      "path": "../../ContextLibrary/ContextLibrary.csproj",
-      "msbuildProject": "../../ContextLibrary/ContextLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     "net9.0-windows7.0": [
-      "ContextLibrary >= 1.0.0"
+      "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\ContextLibrary\\ContextLibrary.csproj"
     ]
   },
   "packageFolders": {
@@ -33,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\шарпы\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "G:\\шарпы\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+      "projectPath": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
       "packagesPath": "C:\\Users\\Ponomaryovaaa\\.nuget\\packages\\",
-      "outputPath": "G:\\шарпы\\WpfApp1\\WpfApp1\\obj\\",
+      "outputPath": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\WpfApp1\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +42,8 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "G:\\шарпы\\ContextLibrary\\ContextLibrary.csproj": {
-              "projectPath": "G:\\шарпы\\ContextLibrary\\ContextLibrary.csproj"
+            "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\ContextLibrary\\ContextLibrary.csproj": {
+              "projectPath": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\ContextLibrary\\ContextLibrary.csproj"
             }
           }
         }
@@ -102,5 +85,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\ContextLibrary\\ContextLibrary.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\ContextLibrary\\ContextLibrary.csproj",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
 }

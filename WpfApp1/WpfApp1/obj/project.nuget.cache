@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "wKToI0IMajk=",
-  "success": true,
-  "projectFilePath": "G:\\шарпы\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "dgSpecHash": "+azvqU+TZhk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\ContextLibrary\\ContextLibrary.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\ContextLibrary\\ContextLibrary.csproj",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
 }

@@ -54,3 +54,6 @@ G:\шарпы\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.CoreCompil
 G:\шарпы\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.Up2Date
 G:\шарпы\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.genruntimeconfig.cache
 G:\шарпы\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\ref\WpfApp1.dll
+C:\Users\Ponomaryovaaa\source\C_Sharp_labs\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.dll
+C:\Users\Ponomaryovaaa\source\C_Sharp_labs\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\refint\WpfApp1.dll
+C:\Users\Ponomaryovaaa\source\C_Sharp_labs\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.pdb
