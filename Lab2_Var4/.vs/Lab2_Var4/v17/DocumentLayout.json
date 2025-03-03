@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|c:\\users\\ponomaryovaaa\\source\\c_sharp_labs\\lab2_var4\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|c:\\users\\ponomaryovaaa\\source\\c_sharp_labs\\lab2_var4\\requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:requestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|c:\\users\\ponomaryovaaa\\source\\c_sharp_labs\\lab2_var4\\requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|solutionrelative:requestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51F8C98C-7124-418C-8071-5A4251EE382D}|Lab2_Var4.csproj|c:\\users\\ponomaryovaaa\\source\\c_sharp_labs\\lab2_var4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,12 +48,8 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RequestWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\RequestWindow.xaml.cs",
               "RelativeDocumentMoniker": "RequestWindow.xaml.cs",
@@ -66,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RequestWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Ponomaryovaaa\\source\\C_Sharp_labs\\Lab2_Var4\\RequestWindow.xaml",
               "RelativeDocumentMoniker": "RequestWindow.xaml",
@@ -104,8 +100,7 @@
               "ToolTip": "\\\\iscsi\\profstud\\PonomaryovaAA\\Downloads\\ContextLibrary\\Entities\\Request.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T02:57:50.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T02:57:50.789Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAIwC0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T02:42:27.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T02:42:27.383Z"
             },
             {
               "$type": "Document",
@@ -162,6 +156,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-10T02:51:48.851Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
