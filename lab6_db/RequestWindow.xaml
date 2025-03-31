@@ -1,0 +1,45 @@
+﻿<Window x:Class="lab6_db.RequestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Заявка" Height="400" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Дата добавления:" Grid.Row="0"/>
+        <DatePicker Name="DateAddedPicker" Grid.Row="0" Margin="120,0,0,5" SelectedDate="{Binding DateAdded}"/>
+
+        <Label Content="Тип оборудования:" Grid.Row="1"/>
+        <TextBox Name="EquipmentTypeTextBox" Grid.Row="1" Margin="120,0,0,5" Text="{Binding EquipmentType}"/>
+
+        <Label Content="Модель:" Grid.Row="2"/>
+        <TextBox Name="EquipmentModelTextBox" Grid.Row="2" Margin="120,0,0,5" Text="{Binding EquipmentModel}"/>
+
+        <Label Content="Статус:" Grid.Row="3"/>
+        <ComboBox Name="StatusComboBox" Grid.Row="3" Margin="120,0,0,5" 
+                  SelectedValue="{Binding Status}" SelectedValuePath="Content">
+            <ComboBoxItem>Новая</ComboBoxItem>
+            <ComboBoxItem>В работе</ComboBoxItem>
+            <ComboBoxItem>Завершена</ComboBoxItem>
+        </ComboBox>
+
+        <Label Content="Описание проблемы:" Grid.Row="4"/>
+        <TextBox Name="ProblemDescriptionTextBox" Grid.Row="4" Margin="120,0,0,5" Text="{Binding ProblemDescription}"/>
+
+        <Label Content="Клиент:" Grid.Row="5"/>
+        <TextBox Name="ClientNameTextBox" Grid.Row="5" Margin="120,0,0,5" Text="{Binding ClientName}"/>
+
+        <StackPanel Grid.Row="7" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Сохранить" Click="SaveButton_Click" Width="80" Margin="0,0,10,0"/>
+            <Button Content="Отмена" Click="CancelButton_Click" Width="80"/>
+        </StackPanel>
+    </Grid>
+</Window>
